@@ -5,10 +5,6 @@
 #include <fstream>
 #include "MixSegment.hpp"
 #include "EncodingConverter.h"
-//#include "MPSegment.hpp"
-//#include "HMMSegment.hpp"
-//#include "FullSegment.hpp"
-//#include "QuerySegment.hpp"
 
 using namespace CppJieba;
 
